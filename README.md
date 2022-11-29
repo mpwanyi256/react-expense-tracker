@@ -3,7 +3,7 @@
 ## React.Js Expense Tracker
 Just playing around with some React.Js features. In this repo, I work on a simple expense tracker;
 -   Add a new Expense with a title, date and description
--   Edit, Delete or Update recoerds
+-   Filter Expenses based on year
 
 All data is lost on reload (It's not saved anywhere rather than an array data structure).
 
